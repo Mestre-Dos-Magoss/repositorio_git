@@ -2,12 +2,11 @@ import styled from 'styled-components';
 
 export const GitHubPage = styled.div`
   width:100%;
-  display:flex;
+  display:inline-flex;
   margin-top:32px;
   margin-bottom:64px;
 
   img{
-    max-width:375px;
     height:157px;
   }
 
